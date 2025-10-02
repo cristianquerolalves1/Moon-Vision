@@ -1,4 +1,4 @@
-[![Moon ID](https://github.com/cristianquerolalves1/Moon-Vision/blob/main/docs/imagenes/sistemas/moon_id.png?raw=true)](docs/sistemas/moon_id.md)
+[![Moon ID](https://github.com/cristianquerolalves1/Moon-Vision/blob/main/docs/imagenes/sistemas/whitelist.png?raw=true)](docs/sistemas/moon_id.md)
 # Whitelist
 
 La **Whitelist** de Moon Studio es el sistema de acceso controlado que garantiza que solo los jugadores que cumplen con los requisitos de la comunidad puedan entrar al servidor. Su objetivo es mantener un rol serio, coherente y de calidad, seleccionando perfiles adecuados para el ecosistema de Moon Studio.
