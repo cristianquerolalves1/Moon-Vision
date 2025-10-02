@@ -1,4 +1,4 @@
-
+[![Moon ID](https://github.com/cristianquerolalves1/Moon-Vision/blob/main/docs/imagenes/sistemas/whitelist.png?raw=true)](docs/sistemas/moon_id.md)
 # Moon Missions
 
 **Moon Missions** es el sistema de misiones dentro de **Moon Studio**, diseñado para guiar a los jugadores a través de tareas, eventos y actividades dentro del servidor. Permite integrar narrativa, recompensas y progresión de manera dinámica, conectando con otros sistemas como Moon ID y Moon Map.
