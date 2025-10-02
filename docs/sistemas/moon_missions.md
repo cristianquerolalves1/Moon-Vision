@@ -38,4 +38,3 @@
 
 ---
 
-## ⚙️ Uso básico (API / Ejemplo)
