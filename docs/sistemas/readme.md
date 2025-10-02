@@ -36,4 +36,3 @@ Cada sistema tiene su propio README detallado con:
 
 > Todo lo necesario para entender y utilizar los sistemas de Moon Studio está explicado en cada archivo correspondiente.
 
-*Mini descripción: Documentación completa de todos los sistemas internos de Moon Studio.*
