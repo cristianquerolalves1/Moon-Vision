@@ -1,4 +1,4 @@
-[![Moon ID](imagenes/sistemas/moon_id.png)](docs/sistemas/moon_id.md)
+[![Moon ID](https://github.com/cristianquerolalves1/Moon-Vision/blob/main/docs/imagenes/sistemas/moon_id.png?raw=true)](docs/sistemas/moon_id.md)
 # Moon ID
 
 **Moon ID** es el sistema de identificación de usuarios de **Moon Studio**, que permite gestionar registros, permisos y autenticación dentro del ecosistema del servidor y la web interactiva. Es la base sobre la que funcionan la mayoría de sistemas internos y sirve para mantener un control seguro y organizado de los jugadores.
