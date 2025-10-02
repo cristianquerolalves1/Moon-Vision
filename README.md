@@ -1,12 +1,11 @@
 <a href="https://instagram.com/moonvisionrp" target="_blank">
-  <img src="./header-banner.png" alt="Moon Vision RP" width="100%">
+  <img src="./moon-vision.png" alt="Moon Vision RP" width="100%">
 </a>
 
 # 🌙 Moon Vision
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/tu-usuario/tu-repo?color=green)]()
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=tu-usuario.tu-repo)]()
+
 
 ---
 
@@ -26,4 +25,30 @@ Este proyecto tiene como objetivo **crear un repositorio centralizado y profesio
 
 ---
 
-## 🛠 Estructura del proyecto
+## 🌱 Próximos pasos
+
+- Agregar **guías de rol avanzadas** y ejemplos prácticos.  
+- Documentar **eventos y misiones** dentro del servidor.  
+- Integrar **badges de GitHub y estadísticas en tiempo real** para seguimiento.  
+- Publicar recursos multimedia con licencia **Creative Commons BY-NC 4.0**.
+
+---
+
+## 📫 Contacto
+
+- ✉️ Email: moonvisionrp@protonmail.com 
+- 🌐 Discord: [Click Aquí](https://discord.gg/HtJ8uMQBed)  
+- 🐙 GitHub: [cristianquerolalves1](https://github.com/cristianquerolalves1/)
+
+---
+
+## ⚡ Dato curioso
+
+Este proyecto busca **centralizar todo el universo creativo de Moon Studio RP**, haciendo que cualquier colaborador pueda acceder fácilmente a la información y contribuir de manera organizada y profesional.
+
+---
+
+## 🔗 Licencia
+
+Este proyecto está bajo la licencia **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.  
+Puedes **compartir y adaptar el contenido**, pero **no para fines comerciales** y siempre **dando crédito al autor**.
